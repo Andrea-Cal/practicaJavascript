@@ -11,4 +11,4 @@ En esta tarea se van a encontrar con 3 ejercicios donde van a poner en práctica
 Clases Mindhub
 
 Ejercicios de práctica de JavaScript.
-Condicionales y Bucles.
+Condicionales, Bucles y Funciones.
